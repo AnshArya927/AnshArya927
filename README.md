@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Ansh Arya
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Designing+Intelligent+AI+Systems;RAG+%7C+Multimodal+%7C+LLMs;From+Data+to+Deployment;Turning+Data+into+Intelligent+Systems)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Designing+Intelligent+AI+Systems;RAG+%7C+Multimodal+%7C+LLMs;Turning+Data+into+Intelligent+Systems)
 
 🎓 B.Tech CSE @ BIT Mesra (2023–2027)  
 📊 CGPA: 8.3  
@@ -87,14 +87,6 @@
 - AI/ML & Robotics Training — IIIT Allahabad  
 - Generative AI, LLM & RAG — GeeksforGeeks  
 - Agentic AI — GeeksforGeeks  
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnshArya927&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshArya927&layout=compact&theme=radical)
 
 ---
 
