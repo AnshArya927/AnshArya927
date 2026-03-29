@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Ansh Arya
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=AI/ML+Engineer;Data+Science+Enthusiast;Building+Intelligent+Systems)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Designing+Intelligent+AI+Systems;RAG+%7C+Multimodal+%7C+LLMs;From+Data+to+Deployment;Turning+Data+into+Intelligent+Systems)
 
 🎓 B.Tech CSE @ BIT Mesra (2023–2027)  
 📊 CGPA: 8.3  
